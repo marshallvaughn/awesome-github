@@ -2,14 +2,13 @@
 
 Just a collection of awesome resources from around Github — users, repos, gists, etc.
 
-- [awesome-github](#awesome-github)
-  - [Users to Follow](#users-to-follow)
-    - [General](#general)
-    - [Salesforce](#salesforce)
-  - [Repos to Follow](#repos-to-follow)
-    - [General](#general-1)
-    - [Salesforce](#salesforce-1)
-  - [Gists](#gists)
+- [Users to Follow](#users-to-follow)
+  - [General](#general)
+  - [Salesforce](#salesforce)
+- [Repos to Follow](#repos-to-follow)
+  - [General](#general-1)
+  - [Salesforce](#salesforce-1)
+- [Gists](#gists)
 
 ## Users to Follow
 
