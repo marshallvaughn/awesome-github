@@ -20,6 +20,7 @@ Just a collection of awesome resources from around Github — users, repos, gist
 
 - [forcedotcom](https://github.com/forcedotcom) — APIs, tools, and frameworks for developers using the Lightning Platform
 - [SalesforceFoundation](https://github.com/SalesforceFoundation) — Salesforce's nonprofit wing
+- [salesforce-ux](https://github.com/salesforce-ux) — Salesforce's user experience contingent
 - [financialforcedev](https://github.com/financialforcedev) — The account for FinancialForce, a major player in the Salesforce arena
 - [Wade Wegner](https://github.com/wadewegner) — Engineer at Salesforce
 - [Shane McLaughlin](https://github.com/mshanemc) — Engineer at Salesforce
@@ -39,5 +40,6 @@ Just a collection of awesome resources from around Github — users, repos, gist
 - [SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility)
 - [sfdx-waw-plugin](https://github.com/wadewegner/sfdx-waw-plugin) — [Wade Wegner](https://github.com/wadewegner)'s sfdx-cli plugin
 - [shane-sfdx-plugins](https://github.com/mshanemc/shane-sfdx-plugins) — [Shane McLaughlin](https://github.com/mshanemc)'s sfdx-cli plugin
+- [design-system](https://github.com/salesforce-ux/design-system) — Salesforce Lightning Design System
 
 ## Gists
