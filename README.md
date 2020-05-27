@@ -19,6 +19,8 @@ Just a collection of awesome resources from around Github — users, repos, gist
 ### Salesforce
 
 - [forcedotcom](https://github.com/forcedotcom) — APIs, tools, and frameworks for developers using the Lightning Platform
+- [SalesforceFoundation](https://github.com/SalesforceFoundation) — Salesforce's nonprofit wing
+- [financialforcedev](https://github.com/financialforcedev) — The account for FinancialForce, a major player in the Salesforce arena
 - [Wade Wegner](https://github.com/wadewegner) — Engineer at Salesforce
 - [Shane McLaughlin](https://github.com/mshanemc) — Engineer at Salesforce
 
