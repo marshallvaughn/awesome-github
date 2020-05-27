@@ -7,6 +7,7 @@ Just a collection of awesome resources from around Github — users, repos, gist
   - [Salesforce](#salesforce)
 - [Repos to Follow](#repos-to-follow)
   - [General](#general-1)
+  - [Fish](#fish)
   - [Salesforce](#salesforce-1)
 - [Gists](#gists)
 
@@ -30,9 +31,13 @@ Just a collection of awesome resources from around Github — users, repos, gist
 ### General
 
 - [doing](https://github.com/ttscoff/doing) — A command line todo script from [Brett Terpstra](https://github.com/ttscoff). Useful for rapid and flexible productivity management.
-- [fish_files](https://github.com/ttscoff/fish_files) — [Brett Terpstra](https://github.com/ttscoff)'s fish setup
 - [Watson](https://github.com/TailorDev/Watson) — A nifty time tracking CLI utility
 - [brew](https://github.com/Homebrew/brew) — a.k.a. Homebrew; the missing package manager for macOS (or Linux)
+
+### Fish
+
+- [fish_files](https://github.com/ttscoff/fish_files) — [Brett Terpstra](https://github.com/ttscoff)'s fish setup
+- [fish-getopts](https://github.com/jorgebucaran/fish-getopts) — An option parser for fish
 
 ### Salesforce
 
