@@ -28,6 +28,8 @@ Just a collection of awesome resources from around Github — users, repos, gist
 
 - [doing](https://github.com/ttscoff/doing) — A command line todo script from [Brett Terpstra](https://github.com/ttscoff). Useful for rapid and flexible productivity management.
 - [fish_files](https://github.com/ttscoff/fish_files) — [Brett Terpstra](https://github.com/ttscoff)'s fish setup
+- [Watson](https://github.com/TailorDev/Watson) — A nifty time tracking CLI utility
+- [brew](https://github.com/Homebrew/brew) — a.k.a. Homebrew; the missing package manager for macOS (or Linux)
 
 ### Salesforce
 
