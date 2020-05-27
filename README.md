@@ -4,10 +4,28 @@ Just a collection of awesome resources from around Github — users, repos, gist
 
 ## Users to Follow
 
+### General
+
 - [Brett Terpstra](https://github.com/ttscoff) — The posterboy for Mac hacks
+
+### Salesforce
+
+- [forcedotcom](https://github.com/forcedotcom) — APIs, tools, and frameworks for developers using the Lightning Platform
+- [Wade Wegner](https://github.com/wadewegner) — Engineer at Salesforce
+- [Shane McLaughlin](https://github.com/mshanemc) — Engineer at Salesforce
 
 ## Repos to Follow
 
-- [doing](https://github.com/ttscoff/doing) — A command line todo script. Useful for rapid and flexible productivity management.
+### General
+
+- [doing](https://github.com/ttscoff/doing) — A command line todo script from [Brett Terpstra](https://github.com/ttscoff). Useful for rapid and flexible productivity management.
+- [fish_files](https://github.com/ttscoff/fish_files) — [Brett Terpstra](https://github.com/ttscoff)'s fish setup
+
+### Salesforce
+
+- [sfdx-core](https://github.com/forcedotcom/sfdx-core) — The core on which the sfdx-cli is built
+- [SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility)
+- [sfdx-waw-plugin](https://github.com/wadewegner/sfdx-waw-plugin) — [Wade Wegner](https://github.com/wadewegner)'s sfdx-cli plugin
+- [shane-sfdx-plugins](https://github.com/mshanemc/shane-sfdx-plugins) — [Shane McLaughlin](https://github.com/mshanemc)'s sfdx-cli plugin
 
 ## Gists
