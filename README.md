@@ -38,6 +38,7 @@ Just a collection of awesome resources from around Github — users, repos, gist
 
 - [fish_files](https://github.com/ttscoff/fish_files) — [Brett Terpstra](https://github.com/ttscoff)'s fish setup
 - [fish-getopts](https://github.com/jorgebucaran/fish-getopts) — An option parser for fish
+- [fish-cookbook](https://github.com/jorgebucaran/fish-cookbook) — A cookbook for fishA
 
 ### Salesforce
 
